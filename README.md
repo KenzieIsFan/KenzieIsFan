@@ -7,7 +7,7 @@ I am also interested in learning Lynx, the mobile development framework by ByteD
 
 🔭 I’m currently working on a website to help supplement information regarding the Tekken World Tour since it is a tour of events that I enjoy watching.
 I hope that the website can bring some interesting insights to how player rankings may change in a game with multiple patches over a year.
-I have also developed a small extension to help avoid getting distracted by short form media. It is currently for Youtube, but really should be an app to build
+I have also developed a small extension to help avoid getting distracted by short form media. It is currently for Youtube, but really should be on mobile devices, since that's where productivity is lost.
 
 <!--
 **KenzieIsFan/KenzieIsFan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
